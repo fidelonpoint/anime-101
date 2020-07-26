@@ -2,7 +2,7 @@
 Thinking about starting off your anime journey? Here are some cool animes you should watch
 
 | Name | Description | Genre |
-| --- | --- |
+| --- | --- | --- |
 | Sword Art Online: Alicization | The third season of Sword Art Online, titled Sword Art Online: Alicization, is an anime series adapted from the light novel series of the same title written by Reki Kawahara and illustrated by abec. It is animated by A-1 Pictures and directed by Manabu Ono. It covers the first part of the "Alicization" arc and adapts from the novel's ninth volume, Alicization Beginning, to the fourteenth volume, Alicization Uniting. | List all new or modified files |
 | Bungou stray dogs | Show file differences that haven't been staged | List all new or modified files |
 | One piece | Show file differences that haven't been staged | List all new or modified files |
